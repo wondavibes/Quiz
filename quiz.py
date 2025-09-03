@@ -152,7 +152,7 @@ def create_sample_quiz():
             "6",
             "8",
             "5",
-            "Error"
+            "9"
         ],
         "8",
         "The ** operator is used for exponentiation. 2^3 = 8."
